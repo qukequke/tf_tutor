@@ -1,0 +1,11 @@
+/cat_vs_dog_datasets/
+
+/**/.idea/
+/**/.checkpoint/
+/**/.ipynb_checkpoints/
+/**/vgg16.pkl
+/**/my_vgg16.pkl
+/torch_tutor/minist/
+/**/input/
+/**/models/
+/**/vision-master/
