@@ -1,0 +1,7 @@
+save
+training images are collected
+from the UCID [32], BSDS-500 [33] and scraped Google
+Maps images [34] and the corresponding speckled images are
+generated using (1)
+
+要求（CNN）尽量减少预测地面真实像素与真实像素之间的距离，它往往会产生模糊的结果[42,61]。这是因为欧氏距离通过平均所有可能的输出来最小化，这导致模糊
